@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xahtaebeec.progresivni.cz/sitemap.xml
